@@ -9,7 +9,7 @@
 
  ## Installation
 
- Install node.js then Install node modules using npm install command and then install the inquerir dependency
+ Install node.js then Install node modules using npm install command and then install the inquirer dependency
 
  ## Usage
 
