@@ -1,7 +1,13 @@
 
  # Professional Readme Generator
 
- ![Static Badge](https://img.shields.io/badge/MIT-License-blue)
+ ## User Story
+ AS A developer
+ I WANT a README generator
+ SO THAT I can quickly create a professional README for a new project
+
+ ## Video Link
+ 
 
  ## Description
 
